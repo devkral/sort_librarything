@@ -1,0 +1,13 @@
+Installation
+
+open the new bookmark dialog
+insert the content of list_names_ready.txt in the address line and name the bookmarklet like you want
+
+"Compiling"
+Remove the spaces, newlines and comments (inexistent, yet) in list_names_template.txt until you you have one line left.
+
+list_names_template.txt
+list_names_template.txt is just for a better overview over the code.
+
+Hacking:
+Every statement has to end with ; except functions and if clauses when they end with }
