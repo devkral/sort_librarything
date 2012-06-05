@@ -11,3 +11,7 @@ list_names_template.txt is just for a better overview over the code.
 
 Hacking:
 Every statement has to end with ; except functions and if clauses when they end with }
+
+
+Thanks:
+Thanks to @work for his brilliant example
