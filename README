@@ -1,5 +1,5 @@
 Installation:
-Open a "new bookmark"-dialog.
+Open a "new bookmark"-dialog (if the bookmark has no address line: save the bookmark and edit it).
 Insert the content of list_names_ready.txt in the address line and name the bookmark like you want.
 
 "Compiling":
