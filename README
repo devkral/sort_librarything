@@ -1,17 +1,14 @@
-Installation
+Installation:
+Open a "new bookmark"-dialog.
+Insert the content of list_names_ready.txt in the address line and name the bookmark like you want.
 
-open the new bookmark dialog
-insert the content of list_names_ready.txt in the address line and name the bookmarklet like you want
-
-"Compiling"
+"Compiling":
 Remove the newlines in list_names_template.txt until you have one line left.
 
-list_names_template.txt
 list_names_template.txt is just for a better overview over the code.
 
 Hacking:
-Every statement has to end with ; except functions and if clauses when they end with }
-
+Every statement has to end with ; except functions and if clauses when they end with }.
 
 Thanks:
-Thanks to @work for his brilliant example
+Thanks to @work for his brilliant example.
