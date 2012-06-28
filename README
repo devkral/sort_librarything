@@ -3,7 +3,10 @@ Open a "new bookmark"-dialog (if the bookmark has no address line: save the book
 Insert the content of list_names_ready.txt in the address line and name the bookmark like you want.
 
 "Compiling":
-Remove the newlines in list_names_template.txt until you have one line left.
+new method: Use converter script: convert_to_bookmarklet.sh (sorry, had no good idea how I should call it) 
+old method: Remove the newlines in list_names_template.txt until you have one line left.
+
+
 
 list_names_template.txt is just for a better overview over the code.
 
